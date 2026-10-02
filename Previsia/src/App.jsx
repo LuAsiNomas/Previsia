@@ -7,11 +7,8 @@ function App() {
 
   return (
     <>
-
       <section id="center">
-        <div className="hero">
           <img src={previsia} className="base" width="170" height="179" alt="Previsia logo" />
-        </div>
         <div>
           <h1>Bienvenido</h1>
           <p>
